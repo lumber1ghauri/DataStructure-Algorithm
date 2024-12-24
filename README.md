@@ -62,5 +62,3 @@ Push to the branch: git push origin my-feature-branch.
 Submit a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Similar code found with 2 license types - View matches
