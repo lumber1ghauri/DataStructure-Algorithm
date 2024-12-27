@@ -40,6 +40,7 @@ int searchInRotatedSortedArray(vector<int> &nums, int target)
 
     return -1;
 }
+
 int main()
 {
     vector<int> nums = {4, 5, 6, 7, 0, 1, 2};
@@ -48,7 +49,7 @@ int main()
 
     if (result != -1)
     {
-        cout << "Element found at index " << result << std::endl;
+    cout << "Element found at index " << result << std::endl;
     }
     else
     {
