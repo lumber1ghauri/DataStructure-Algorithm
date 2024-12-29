@@ -4,6 +4,7 @@ using namespace std;
 
 int peakElement(vector<int> &arr)
 {
+    //linear approach O(n)
     int n = arr.size();
     for (int i = 0; i < n; i++)
     {
