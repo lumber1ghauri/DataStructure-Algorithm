@@ -21,7 +21,6 @@ int kadane(vector <int> &arr)
             sum=0;
         }
     }
-    cout << "total Array sum : " << totalArraySum << endl;
      return new_sum;
 }
 int main()
